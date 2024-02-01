@@ -1,0 +1,25 @@
+[
+    {
+      "role": "Contributor",
+      "organisation": "GirlScript of Summer",
+      "startDate": "Oct, 2023",
+      "endDate": "Nov, 2023",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/girlscriptsoc_logo.jpeg"
+    },
+    {
+      "role": "Teacher",
+      "organisation": "Filo Tutor",
+      "startDate": "Jun, 2023",
+      "endDate": "Dec, 2023",
+      "experiences": ["Teaching Chemistry to Class XI and XII"],
+      "imageSrc": "history/unnamed.png"
+    },
+    {
+      "role": "Food Donor",
+      "organisation": "Robin Hood Army",
+      "startDate": "Sept, 2023",
+      "experiences": ["Distributing food among the needy."],
+      "imageSrc": "history/The_Logo_of_the_Robin_Hood_Army.jpg"
+    }
+  ]
